@@ -1,0 +1,8 @@
+site_name: ALTTP-UWDE
+site_description : The Legend of Zelda - A Link to the Past - Underworld Delving and Exploration
+site_author : Thomas ICHÉ
+theme: readthedocs
+nav:
+  - 'Home' : 'index.md'
+  - 'Exploration' :
+    - 'Master Glitch' : 'exploration/master-glitch.md'
