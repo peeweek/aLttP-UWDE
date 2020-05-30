@@ -1,0 +1,5 @@
+SystemID SNES
+000076	w	u	0	WRAM	Anim Frame
+0000F0	w	u	0	WRAM	Input
+0000F8	w	u	0	WRAM	Input
+
